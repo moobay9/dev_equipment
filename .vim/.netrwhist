@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/m.oobayashi/webroot/funaffect/fuel/app/views/top'
+let g:netrw_dirhist_2='/home/m.oobayashi/webroot/jima/htdocs/assets/css/archive'
+let g:netrw_dirhist_3='/home/m.oobayashi/webroot/funaffect/fuel/app/..'
+let g:netrw_dirhist_4='/home/m.oobayashi/webroot/funaffect/fuel/app/views/top'

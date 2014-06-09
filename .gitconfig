@@ -1,0 +1,16 @@
+[user]
+	email = moobay9@gmail.com
+	name = Masanori Oobayashi
+[core]
+	autocrlf = false
+	pager = less -r
+[http]
+	sslVerify = false
+[color]
+	ui = true
+[alias]
+	st = status
+	br = branch
+	ci = commit
+	co = checkout
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
